@@ -52,11 +52,9 @@ h2 {
     text-align: center;
 }
 
-.link:last-child {
-    margin-bottom: 30px;
-}
-
 .link a {
     text-decoration: none;
     color: #baca0f;
+    display: inline;
+    padding: 15px 350px;
 }
